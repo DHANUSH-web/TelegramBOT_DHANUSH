@@ -1,4 +1,4 @@
-Here you will all the data about the conversations in a file with filename <user_id>_<user_name>.txt
+Here you will find all the data about the conversations in a file with filename <user_id>_<user_name>.txt
 
 Programmer: DHANUSH H V
 Project   : DHANUSHHVbot
