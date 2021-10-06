@@ -1,0 +1,15 @@
+Example commands: Type any commands and hit enter
+
+1: who are you
+2: what is your name
+3: what are you doing
+4: I'm fine
+5: Good, fine, ok, what
+6: help
+7: what is your favourite color
+8: emoji
+9: calculations (ex: 25 + 95)
+10: day
+11: time
+12: month
+13: date
